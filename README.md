@@ -1,5 +1,6 @@
 # MLFinalProject
 Name:Jorge Moreno  
+Project Name: Movie4Me?  
 CSCI 4622 Final Project: Movie Recommendation   
 Repo for my final Project CSCI 4622.  
 Data was grabbed from https://grouplens.org/datasets/movielens/.   
